@@ -18,5 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 ## API key
 
 get API key from this site - https://console.groq.com/keys
-then in the server folder update you api key as given below 
+then in the server folder make an .env file and update make your api key as given below 
 GROQ_API_KEY=gsk_xyz
